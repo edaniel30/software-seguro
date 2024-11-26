@@ -2,7 +2,7 @@ import time
 import json
 from nmap_scanner import nmap_scan
 from google_dorks import google_dorks 
-from results_analyzer import analyze_nmap_results, analyze_ssl_scan
+from results_analyzer import analyze_nmap_results
 
 # Menú principal
 def main_menu():
